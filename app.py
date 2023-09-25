@@ -25,7 +25,7 @@ def home():
         """
         <style>
         .stMarkdown a {
-            color: white !important;
+            color: red !important;
         }
         </style>
         """,
