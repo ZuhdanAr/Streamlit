@@ -19,9 +19,7 @@ with open('model.pkl', 'rb') as file:
 def home():
     st.title('Cluster Prediction App')
     st.caption('Made by: Zuhdan Arif')
-    st.write('This app predicts clusters on Mall customer based on age, salary, and score. This project aims to predict clusters among Mall 
-              customers based on their age, salary, and score using the K-Nearest Neighbors (KNN) algorithm. 
-              The KNN method has been found to be the most effective in this particular case after rigorous testing and evaluation.')
+    st.write('This app predicts clusters on Mall customer based on age, salary, and score. This project aims to predict clusters among Mall customers based on their age, salary, and score using the K-Nearest Neighbors (KNN) algorithm. The KNN method has been found to be the most effective in this particular case after rigorous testing and evaluation.')
     st.subheader('Files')
     st.write('The dataset used for this project consists of customer information collected from a shopping mall. Feel free to check my code')
     st.markdown(
