@@ -55,3 +55,5 @@ This project can be further enhanced in the following ways:
     Develop a user interface or web application for interactive exploration of the customer clusters.
 
 Feel free to customize and expand upon this README file to provide more details about your project and its implementation. Include any relevant information, such as installation instructions, project structure, references, or acknowledgments
+
+streamlit link = zuhdanarclassification.streamlit.app
